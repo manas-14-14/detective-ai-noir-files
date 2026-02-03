@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Detective AI: The Noir Files",
+  "description": "An immersive AI-driven crime investigation game where you must solve a fictional mystery by questioning suspects and uncovering clues.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
